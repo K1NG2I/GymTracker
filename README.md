@@ -55,3 +55,13 @@ GymTracker/
 - WidgetKit for home screen widgets
 - ActivityKit for Live Activities
 - XcodeGen for project generation
+
+## Screenshots
+
+Add screenshots to `Screenshots/` and link them below:
+
+| Feature | Preview |
+|---|---|
+| Workout | ![Workout](Screenshots/workout.png) |
+| Library | ![Library](Screenshots/library.png) |
+| Progress | ![Progress](Screenshots/progress.png) |
