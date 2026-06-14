@@ -58,10 +58,13 @@ GymTracker/
 
 ## Screenshots
 
-Add screenshots to `Screenshots/` and link them below:
-
-| Feature | Preview |
-|---|---|
-| Workout | ![Workout](Screenshots/workout.png) |
-| Library | ![Library](Screenshots/library.png) |
-| Progress | ![Progress](Screenshots/progress.png) |
+![Screenshot 1](Screenshots/IMG_0300.png)
+![Screenshot 2](Screenshots/IMG_0301.png)
+![Screenshot 3](Screenshots/IMG_0302.png)
+![Screenshot 4](Screenshots/IMG_0303.png)
+![Screenshot 5](Screenshots/IMG_0304.png)
+![Screenshot 6](Screenshots/IMG_0305.png)
+![Screenshot 7](Screenshots/IMG_0306.png)
+![Screenshot 8](Screenshots/IMG_0307.png)
+![Screenshot 9](Screenshots/IMG_0308.png)
+![Screenshot 10](Screenshots/IMG_0309.png)
