@@ -54,7 +54,6 @@ GymTracker/
 - Swift Charts for progress visualization
 - WidgetKit for home screen widgets
 - ActivityKit for Live Activities
-- XcodeGen for project generation
 
 ## Screenshots
 <table>
