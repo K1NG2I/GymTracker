@@ -1,6 +1,6 @@
 # GymTracker
 
-A SwiftUI iOS app for tracking gym workouts, built with SwiftData.
+A workout logging app I built for tracking my own gym sessions with an exercise library of 50+ exercises organized by muscle group. Supports custom workout templates, active session logging, and set-by-set tracking with RPE and warmup markers. Features a configurable rest timer with haptic feedback between sets for a smooth workout flow. Progress charts visualize volume over time, muscle group distribution, and personal records using Swift Charts. A home screen widget shows the last workout summary, and Live Activity supports Dynamic Island during active sessions. Built for personal use with SwiftUI, SwiftData, WidgetKit, and ActivityKit.
 
 ## Features
 
